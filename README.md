@@ -1,6 +1,6 @@
 # 🧔  Erick Nunes da Silva 👋
 
-<h2>**`Desenvolvedor Java`**</h2>
+**`Desenvolvedor Java`**
 <br>
 <br>
 💬
