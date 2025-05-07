@@ -1,6 +1,8 @@
 # 🧔  Erick Nunes da Silva 👋
 
 **`Desenvolvedor Java`**
+<br>
+<br>
 💬
 Sou de São Paulo – SP, graduado em Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia, aprendizado contínuo e soluções criativas. Busco minha primeira oportunidade como Desenvolvedor ou Analista Java Júnior, onde possa aplicar os conhecimentos adquiridos em projetos pessoais, acadêmicos e na minha experiência profissional com sistemas corporativos.
 
