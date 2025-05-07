@@ -7,10 +7,9 @@
 <br>
 Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, e apaixonado por tecnologia, aprendizado contínuo e soluções criativas. Busco minha primeira oportunidade como **Desenvolvedor ou Analista Java Júnior**, onde possa aplicar os conhecimentos adquiridos em projetos pessoais, acadêmicos e na minha experiência profissional com sistemas corporativos.
 
-Atualmente, atuo como Analista de Suporte em um sistema de prontuário eletrônico, lidando diretamente com regras de negócio, testes funcionais, suporte técnico e manutenção de dados em produção. Tenho experiência prática em desenvolvimento de aplicações backend com Java, Spring Boot e microsserviços, além de conhecimentos em **TDD**, **APIs RESTful**, **Docker**, **PostgreSQL** e **RabbitMQ**.
+Atualmente, atuo como Analista de Suporte em um sistema de prontuário eletrônico, lidando diretamente com regras de negócio, testes funcionais, suporte técnico e manutenção de dados em produção. Tenho experiência prática em desenvolvimento de aplicações backend com Java, **Spring Boot** (WebFlux, Security, Data JPA, R2DBC e **Gateway**) e microsserviços, além de conhecimentos em **TDD**, **APIs RESTful**, **Docker**, **PostgreSQL** e **RabbitMQ**.
 
 Sou **proativo**, **curioso** e **colaborativo**, sempre buscando evoluir tecnicamente e contribuir com entregas de valor para os times e usuários.
-
 
 
 ### 🤖 Linguagens e Tecnologias
