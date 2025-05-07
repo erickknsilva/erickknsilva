@@ -1,5 +1,4 @@
-
-# 🧔🏽  Erick Nunes da Silva 👋
+# 🧔  Erick Nunes da Silva 👋
 
 **`Desenvolvedor Java`**
 💬
