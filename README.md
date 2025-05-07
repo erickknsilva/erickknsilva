@@ -12,7 +12,7 @@ Atualmente, atuo como Analista de Suporte em um sistema de prontuário eletrôni
 Sou **proativo**, **curioso** e **colaborativo**, sempre buscando evoluir tecnicamente e contribuir com entregas de valor para os times e usuários.
 
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Linguagens e Tecnologias
 
 
 <!-- Java -->
