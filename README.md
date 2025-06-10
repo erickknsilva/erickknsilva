@@ -1,20 +1,15 @@
 # 🧔  Erick Nunes da Silva 👋
 
 **`Desenvolvedor Java`**
-<br>
-<br>
 💬
-<br>
-Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, e apaixonado por tecnologia, aprendizado contínuo e soluções criativas. 
 
-Busco minha primeira oportunidade como **Desenvolvedor ou Analista Java**, onde possa aplicar os conhecimentos adquiridos em projetos pessoais, acadêmicos e na minha experiência profissional com sistemas corporativos.
-
+Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, e apaixonado por tecnologia, aprendizado contínuo e soluções criativas.<br>
+Busco minha primeira oportunidade como **Desenvolvedor ou Analista Java**, onde possa aplicar os conhecimentos adquiridos em projetos pessoais, acadêmicos e na minha experiência profissional com sistemas corporativos.<br>
 Sou **proativo**, **curioso** e **colaborativo**, sempre buscando evoluir tecnicamente e contribuir com entregas de valor para os times e usuários.
 Procuro sempre visar oportunidades e o bem estar de todos em minha volta e sempre aberto para novas sugestões, além de compartilhar o que puder para ajudar o próximo.
 Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimoramento das minhas habilidades.
 
 ## 🛠️ Competências Técnicas
-
 **Linguagens & Frameworks**  
 - Java (8+), Spring Boot (WebFlux, Security, Data JPA, R2DBC, Gateway)  
 - APIs RESTful, Microsserviços
@@ -26,8 +21,6 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
 - Tempo, PostgreSQL, RabbitMQ
 
 ### 👨‍💻 Linguagens e Tecnologias
-
-
 <!-- Java -->
 <img 
     align="left" 
@@ -149,7 +142,7 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
 />
 
 
-<!-- CSS3 -->
+<!-- CSS3 
 <img 
     align="left" 
     alt="CSS3" 
@@ -158,8 +151,8 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
-<!-- JavaScript -->
+-->
+<!-- JavaScript 
 <img 
     align="left" 
     alt="JavaScript" 
@@ -168,7 +161,7 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+-->
 <br/>
 <br/>
 
