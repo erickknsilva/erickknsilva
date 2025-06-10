@@ -5,12 +5,25 @@
 <br>
 💬
 <br>
-Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, e apaixonado por tecnologia, aprendizado contínuo e soluções criativas. Busco minha primeira oportunidade como **Desenvolvedor ou Analista Java Júnior**, onde possa aplicar os conhecimentos adquiridos em projetos pessoais, acadêmicos e na minha experiência profissional com sistemas corporativos.
+Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, e apaixonado por tecnologia, aprendizado contínuo e soluções criativas. 
 
-Atualmente, atuo como Analista de Suporte em um sistema de prontuário eletrônico, lidando diretamente com regras de negócio, testes funcionais, suporte técnico e manutenção de dados em produção. Tenho experiência prática em desenvolvimento de aplicações backend com Java, **Spring Boot** (WebFlux, Security, Data JPA, R2DBC e Gateway) e **microsserviços**, além de conhecimentos em **TDD**, **APIs RESTful**, **Docker**, **PostgreSQL** e **RabbitMQ**.
+Busco minha primeira oportunidade como **Desenvolvedor ou Analista Java**, onde possa aplicar os conhecimentos adquiridos em projetos pessoais, acadêmicos e na minha experiência profissional com sistemas corporativos.
 
 Sou **proativo**, **curioso** e **colaborativo**, sempre buscando evoluir tecnicamente e contribuir com entregas de valor para os times e usuários.
+Procuro sempre visar oportunidades e o bem estar de todos em minha volta e sempre aberto para novas sugestões, além de compartilhar o que puder para ajudar o próximo.
+Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimoramento das minhas habilidades.
 
+## 🛠️ Competências Técnicas
+
+**Linguagens & Frameworks**  
+- Java (8+), Spring Boot (WebFlux, Security, Data JPA, R2DBC, Gateway)  
+- APIs RESTful, Microsserviços
+
+**Ferramentas e Práticas**
+- Git, GitActions, ContainerRegistry
+- Docker, Kubernetes, Grafana
+- Prometheus, Fluent-Bit, Loki
+- Tempo, PostgreSQL, RabbitMQ
 
 ### 👨‍💻 Linguagens e Tecnologias
 
@@ -86,6 +99,13 @@ Sou **proativo**, **curioso** e **colaborativo**, sempre buscando evoluir tecnic
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" 
 />
+
+<img align="left" alt="Grafana" title="Grafana" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+<img align="left" alt="Prometheus" title="Prometheus" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Loki" title="Loki" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" />
+<img align="left" alt="CI/CD" title="CI/CD" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/906/906334.png" />
+
+
 
 <!-- Git -->
 <img 
