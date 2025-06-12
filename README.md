@@ -16,7 +16,7 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
 - APIs RESTful, Microsserviços
 
 **Ferramentas e Práticas**
-- Git, GitActions, ContainerRegistry
+- Git, GitHubActions, GitHub Packages
 - Docker, Kubernetes, Grafana
 - Prometheus, Fluent-Bit, Loki
 - Tempo, PostgreSQL, RabbitMQ
