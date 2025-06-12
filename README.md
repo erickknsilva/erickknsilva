@@ -14,7 +14,7 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
 ## 🛠️ Competências Técnicas
 **Linguagens & Frameworks**  
 - Java (8+), TDD
-- **Spring Boot** (WebFlux, Security, Data JPA, R2DBC, Kafka, AMQP, Cache, Actuator, Validation)
+- **Spring Boot** (WebFlux, Security, Oauth2 Data JPA, R2DBC, Kafka, AMQP, Redis, Actuator, Validation)
 - **Spring Cloud ☁️** (Gateway, Config, Function, Stream, CircuitBreaker, FeignClient)
 - APIs RESTful, Microsserviços
 
