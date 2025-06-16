@@ -10,7 +10,7 @@ Sou **proativo**, **curioso** e **colaborativo**, sempre buscando evoluir tecnic
 Procuro sempre visar oportunidades e o bem estar de todos em minha volta e sempre aberto para novas sugestões, além de compartilhar o que puder para ajudar o próximo.
 Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimoramento das minhas habilidades.
 
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/erick-silva-414098225/)
+📫 Me encontre no [LinkedIn](www.linkedin.com/in/ericksilva-java)
 ## 🛠️ Competências Técnicas
 **Linguagens & Frameworks**  
 - Java (8+), TDD
