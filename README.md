@@ -16,9 +16,9 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
 - Java (8+), TDD
 - **Spring Boot** (WebFlux, Security, Oauth2 Data JPA, R2DBC, Kafka, AMQP, Redis, Actuator, Validation)
 - **Spring Cloud ☁️** (Gateway, Config, Function, Stream, CircuitBreaker, FeignClient)
-- APIs RESTful, Microsserviços
+- APIs RESTful, Microsserviços, Docker
 
-**Ferramentas e Práticas**
+**Ferramentas e Práticas em Aprendizado**
 - Git, GitHubActions, GitHub Packages
 - Docker, Kubernetes, Grafana
 - Prometheus, Fluent-Bit, Loki
