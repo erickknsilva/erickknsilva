@@ -3,12 +3,11 @@
 **`Desenvolvedor Java`**
 💬
 
-Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, e apaixonado por tecnologia, aprendizado contínuo e soluções criativas.<br>
-Busco minha primeira oportunidade como **Desenvolvedor ou Analista Java**, onde possa aplicar os conhecimentos adquiridos em projetos pessoais, acadêmicos e na minha experiência profissional com sistemas corporativos.<br>
-Sou **proativo**, **curioso** e **colaborativo**, sempre buscando evoluir tecnicamente e contribuir com entregas de valor para os times e usuários.
+Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, apaixonado por backend, microsserviços e arquitetura distribuída.
 
-Procuro sempre visar oportunidades e o bem estar de todos em minha volta e sempre aberto para novas sugestões, além de compartilhar o que puder para ajudar o próximo.
-Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimoramento das minhas habilidades.
+Busco minha primeira oportunidade como **Desenvolvedor Java**, aplicando o que venho aprendendo em projetos pessoais, cursos e experiências com sistemas corporativos. Tenho interesse especial por APIs REST, mensageria assíncrona, containers e soluções escaláveis.
+
+Sou proativo, curioso e colaborativo. Acredito na força do aprendizado contínuo, da troca de conhecimento e de entregar valor real para os times e para os usuários. Estou sempre estudando, praticando e compartilhando o que aprendo na jornada.
 
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/ericksilva-java)
 ## 🛠️ Competências Técnicas
