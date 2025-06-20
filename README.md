@@ -18,7 +18,7 @@ Minha paixão pelo desenvolvimento de software está sempre me levando ao aprimo
 - **Spring Cloud ☁️** (Gateway, Config, Function, Stream, CircuitBreaker, FeignClient)
 - APIs RESTful, Microsserviços, Docker
 
-**Ferramentas e Práticas em Aprendizado**
+**Ferramentas e Práticas em aperfeiçoamento**
 - Git, GitHubActions, GitHub Packages
 - Docker, Kubernetes, Grafana
 - Prometheus, Fluent-Bit, Loki
