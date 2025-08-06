@@ -189,6 +189,38 @@ Sou proativo, curioso e colaborativo, acredito na força do aprendizado contínu
   </tr>
 </table>
 
+**Microsserviços: Do Zero à Produção** – *Coffee And IT*  
+[Certificado](https://link-do-certificado)
+
+**Fundamentos do Spring Boot** – *Rocketseat*  
+[Certificado](https://link-do-certificado)
+
+**Fundamentos de Java** – *Rocketseat*  
+[Certificado](https://link-do-certificado)
+
+**Java 2022 Completo: Do Zero ao Profissional** – *Udemy Brasil*  
+[Certificado](https://link-do-certificado)
+
+**Kafka: Produtores, Consumidores e Streams** – *Alura*  
+[Certificado](https://link-do-certificado)
+
+**Kafka: Fast Delegate, Evolução e Cluster de Brokers** – *Alura*  
+[Certificado](https://link-do-certificado)
+
+**DevOps: Trabalhando com Repositórios no GitHub** – *Alura*  
+[Certificado](https://link-do-certificado)
+
+**Kubernetes: Pods, Services e ConfigMaps** – *Alura*  
+[Certificado](https://link-do-certificado)
+
+**Kubernetes: Deployments, Volumes e Escalabilidade** – *Alura*  
+[Certificado](https://link-do-certificado)
+
+**Database Foundations** – *Oracle*  
+[Certificado](https://link-do-certificado)
+
+**Programador de Sistemas** – *Centro Universitário Senac*
+
 
 <!--
 
