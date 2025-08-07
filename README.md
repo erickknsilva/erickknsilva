@@ -3,11 +3,9 @@
 **`Desenvolvedor Java`**
 💬
 
-Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, apaixonado por backend, microsserviços e arquitetura distribuída.
+Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, apaixonado por backend, microsserviços e arquitetura distribuída, com mais de 1 ano de experiência prática em backend, microsserviços e arquitetura distribuída. Atuo com tecnologias modernas do ecossistema Java, como Spring Boot, Spring WebFlux, Kafka(Aprendendo), RabbitMQ, Docker, Testcontainers, PostgreSQL e mais. Tenho experiência no ciclo completo de desenvolvimento de software, desde a análise de regras de negócio até o suporte técnico e a entrega em produção.
 
-Busco minha primeira oportunidade como **Desenvolvedor Java**, aplicando o que venho aprendendo em projetos pessoais, cursos e experiências com sistemas corporativos. Tenho interesse especial por APIs REST, mensageria assíncrona, containers e soluções escaláveis.
-
-Sou proativo, curioso e colaborativo, acredito na força do aprendizado contínuo, da troca de conhecimento e de entregar valor real para os times e para os usuários. Estou sempre estudando, praticando e compartilhando o que aprendo na jornada.
+Busco uma oportunidade como Desenvolvedor Java Júnior, trazendo um histórico sólido de projetos pessoais e profissionais, com foco em qualidade de código, boas práticas de arquitetura e soluções escaláveis e resilientes. Sou curioso, colaborativo e engajado com o aprendizado contínuo.
 
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/ericksilva-java)
 ## 🛠️ Competências Técnicas
@@ -168,6 +166,14 @@ Sou proativo, curioso e colaborativo, acredito na força do aprendizado contínu
 <br/>
 <br/>
 
+🚀 Projetos Pessoais
+
+**Polar-libraries** BookshopSistema completo de gerenciamento e venda de livros utilizando microsserviços com Spring Boot, Spring Cloud, WebFlux e Kafka. Inclui API Gateway, segurança com OAuth2/Keycloak, configuração centralizada e observabilidade com Prometheus e Grafana.
+[Repositório](https://github.com/polar-libraries)
+## 
+**MS-Airlines-Tickets** Plataforma de reserva de passagens aéreas com arquitetura reativa e orientada a eventos. Módulos para gestão de voos e reservas, comunicação assíncrona com Kafka, testes com Testcontainers e orquestração com Kubernetes.
+[Repositório](https://github.com/mscairlinestickets)
+
 ### 📊 Estatísticas
 
 <table>
@@ -188,39 +194,6 @@ Sou proativo, curioso e colaborativo, acredito na força do aprendizado contínu
     </td>
   </tr>
 </table>
-
-**Microsserviços: Do Zero à Produção** – *Coffee And IT*  
-[Certificado](https://link-do-certificado)
-
-**Fundamentos do Spring Boot** – *Rocketseat*  
-[Certificado](https://link-do-certificado)
-
-**Fundamentos de Java** – *Rocketseat*  
-[Certificado](https://link-do-certificado)
-
-**Java 2022 Completo: Do Zero ao Profissional** – *Udemy Brasil*  
-[Certificado](https://link-do-certificado)
-
-**Kafka: Produtores, Consumidores e Streams** – *Alura*  
-[Certificado](https://link-do-certificado)
-
-**Kafka: Fast Delegate, Evolução e Cluster de Brokers** – *Alura*  
-[Certificado](https://link-do-certificado)
-
-**DevOps: Trabalhando com Repositórios no GitHub** – *Alura*  
-[Certificado](https://link-do-certificado)
-
-**Kubernetes: Pods, Services e ConfigMaps** – *Alura*  
-[Certificado](https://link-do-certificado)
-
-**Kubernetes: Deployments, Volumes e Escalabilidade** – *Alura*  
-[Certificado](https://link-do-certificado)
-
-**Database Foundations** – *Oracle*  
-[Certificado](https://link-do-certificado)
-
-**Programador de Sistemas** – *Centro Universitário Senac*
-
 
 <!--
 
