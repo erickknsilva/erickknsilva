@@ -5,7 +5,7 @@
 
 Sou de São Paulo – SP, graduado em **Análise e Desenvolvimento de Sistemas**, apaixonado por backend, microsserviços e arquitetura distribuída, com experiência prática em backend, microsserviços e arquitetura distribuída. Atuo com tecnologias modernas do ecossistema Java, como Spring Boot, Spring WebFlux, Kafka(Aprendendo), RabbitMQ, Docker, Testcontainers, PostgreSQL e mais. Tenho experiência no ciclo completo de desenvolvimento de software, desde a análise de regras de negócio até o suporte técnico e a entrega em produção.
 
-Busco uma oportunidade como Desenvolvedor Java Júnior, trazendo um histórico sólido de projetos pessoais e profissionais, com foco em qualidade de código, boas práticas de arquitetura e soluções escaláveis e resilientes. Sou curioso, colaborativo e engajado com o aprendizado contínuo.
+Desenvolvedor Java Júnior, trazendo um histórico sólido de projetos pessoais e profissionais, com foco em qualidade de código, boas práticas de arquitetura e soluções escaláveis e resilientes. Sou curioso, colaborativo e engajado com o aprendizado contínuo.
 
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/ericksilva-java)
 ## 🛠️ Competências Técnicas
