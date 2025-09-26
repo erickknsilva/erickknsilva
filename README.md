@@ -166,10 +166,10 @@ Desenvolvedor Java Júnior, trazendo um histórico sólido de projetos pessoais 
 <br/>
 <br/>
 
-🚀 Projetos Pessoais
+# Projetos Pessoais
 
 **Polar-libraries** BookshopSistema completo de gerenciamento e venda de livros utilizando microsserviços com Spring Boot, Spring Cloud, WebFlux e Kafka. Inclui API Gateway, segurança com OAuth2/Keycloak, configuração centralizada e observabilidade com Prometheus e Grafana.
-[Repositório](https://github.com/polar-libraries)
+[Polar-libraries](https://github.com/polar-libraries)
 ## 
 **MS-Airlines-Tickets** Plataforma de reserva de passagens aéreas com arquitetura reativa e orientada a eventos. Módulos para gestão de voos e reservas, comunicação assíncrona com Kafka, testes com Testcontainers e orquestração com Kubernetes.
 [Repositório](https://github.com/mscairlinestickets)
