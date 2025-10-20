@@ -172,7 +172,7 @@ Desenvolvedor Java Júnior, trazendo um histórico sólido de projetos pessoais 
 [Polar-libraries](https://github.com/polar-libraries)
 ## 
 **MS-Airlines-Tickets** Plataforma de reserva de passagens aéreas com arquitetura reativa e orientada a eventos. Módulos para gestão de voos e reservas, comunicação assíncrona com Kafka, testes com Testcontainers e orquestração com Kubernetes.
-[Repositório](https://github.com/mscairlinestickets)
+[msc-airlines](https://github.com/mscairlinestickets)
 
 ### 📊 Estatísticas
 
